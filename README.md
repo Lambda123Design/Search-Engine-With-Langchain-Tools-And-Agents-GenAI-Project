@@ -1,4 +1,4 @@
-# Search-Engine-With-Langchain-Tools-And-Agents-Gen-AI-Project
+# Search-Engine-With-Langchain-Tools-And-Agents-GenAI-Project
 This Repository contains my working files of "Search Engine With Langchain Tools And Agents Project", an Gen AI Project
 
 (i) Implemented an end-to-end AI search engine using LangChain, integrating open-source LLM models like Llama.
